@@ -2,3 +2,17 @@ body{
     text-align: center;
     font-family: "Arial";
 }
+.container{
+    border: 1px solid #cccfff;
+    padding: 15px;
+}
+.head{
+    font-size: 25px;
+    background-color: aqua;
+    margin-bottom: 5px; 
+}
+.parrafo{
+    font-size: 13px;
+    margin: 10px;;
+
+}
